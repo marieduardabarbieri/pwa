@@ -1,0 +1,26 @@
+{
+    "name": "Minha primeira PWA Progressiva",
+    "short_name": "Primeira PWA",
+    "icons": [
+        {
+            "src": "https://i.pinimg.com/236x/af/c7/c7/afc7c7e7af051ddb4538b3fc0847ad7b.jpg",
+            "sizes": "215x21",
+            "type": "image/png"
+        },
+        {
+            "src": "https://i.pinimg.com/236x/f1/24/16/f1241656cc29ab1ee93a844b0af06715.jpg",
+            "sizes": "215x21",
+            "type": "image/png"
+        },
+        {
+            "src": "https://i.pinimg.com/236x/fa/64/21/fa642125f873c0a24c328e83ba97bc84.jpg",
+            "sizes": "215x215",
+            "type": "image/png"
+        }
+    ],
+    "lang": "pt-BR",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+}
